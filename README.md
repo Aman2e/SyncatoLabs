@@ -94,7 +94,7 @@
 ## Project Structure 🔃
 
 ```plaintext
-CodeTogether/
+SyncLabs/
 ├── public/                 # Static assets
 ├── src/                    # Source code
 │   ├── components/         # React components
