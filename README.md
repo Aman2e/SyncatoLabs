@@ -19,7 +19,7 @@
 
 ## Live Demo ✈️
 
-[app-codecollab.onrender.com/ ](https://app-codecollab.onrender.com/)
+[syncatolabs.onrender.com/ ](https://syncatolabs.onrender.com/)
 
 ---
 
