@@ -161,6 +161,6 @@ Contributions are welcome! Please follow these steps:
 Feel free to reach out for any questions or feedback:
 
 - **Author**: Aman Tiwari 
-- **GitHub**: [ravikumariitk](https://github.com/Aman2e)
+- **GitHub**: [Aman2e](https://github.com/Aman2e)
 
 Happy Coding! 🎉

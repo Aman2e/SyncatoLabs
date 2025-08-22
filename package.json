@@ -44,13 +44,11 @@
     "yjs": "^13.6.21"
   },
   "scripts": {
-    "start:front": "react-scripts start",
-    "start": "npm run start:front && npm run server:prod",
-    "build": "react-scripts build",
-    "server:dev": "nodemon server.js",
-    "server:prod": "node server.js",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "start:front": "react-scripts start",
+  "start": "node server.js",
+  "build": "react-scripts build",
+  "server:dev": "nodemon server.js",
+  "server:prod": "node server.js"
   },
   "eslintConfig": {
     "extends": [
